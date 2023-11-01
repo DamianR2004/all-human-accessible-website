@@ -2,7 +2,7 @@
     font-family: "Proxima Nova";
     font-weight: 400;
     src:
-      url("/assets/fonts/ProximaNova-Medium_2770618388[2258].otf") format("opentype")
+      url("../assets/fonts/ProximaNova-Medium_2770618388[2258].otf") format("opentype")
 }
 
 *{
