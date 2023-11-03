@@ -12,12 +12,16 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+Ik ben deze keer weer verder gegaan met de website maken voor funda, de feedback van de vorige keer was vooral gericht op het responsive maken van mijn website. Dit is na wat proberen goed gelukt door de technieken die ik de afgelopen tijd heb geleerd. Hieronder heb een van het eindresultaat neergezet.  
 <!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+![Uploading Scherm­afbeelding 2023-11-03 om 11.02.56.png…]()
+
+
+link: https://damianr2004.github.io/all-human-accessible-website/
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+In deze versie heb ik weer verschillende dingen aangepast. Zo ben ik afgestapt van position absolute en ben ik flex en grids gaan gebruiken. dit zorgt ervoor dat mijn site responsive is. Op het gebied van HTML heb ik veel gewerkt aan het accessible maken van de code. Zo heb ik nu bijna overal alt tekst toegevoegd aan mijn code en heb ik titels aan links gegeven. 
 
 
 
