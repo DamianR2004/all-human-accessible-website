@@ -12,7 +12,7 @@ Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk vo
   * [Licentie](#licentie)
 
 ## Beschrijving
-Ik ben deze keer weer verder gegaan met de website maken voor funda, de feedback van de vorige keer was vooral gericht op het responsive maken van mijn website. Dit is na wat proberen goed gelukt door de technieken die ik de afgelopen tijd heb geleerd. Hieronder heb een van het eindresultaat neergezet.  
+Ik ben deze keer weer verder gegaan met de website maken voor funda, de feedback van de vorige keer was vooral gericht op het responsive maken van mijn website. Dit is na wat proberen goed gelukt door de technieken die ik de afgelopen tijd heb geleerd. Hieronder heb ik een foto van het eindresultaat neergezet.  
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![Uploading Scherm­afbeelding 2023-11-03 om 11.02.56.png…]()
 
